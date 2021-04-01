@@ -18,4 +18,4 @@ If we had more time we would perhaps add some more information from the API resp
 ​
 ## View it live
 ​
-https://music-release-project.netlify.app
+https://nervous-einstein-6d825b.netlify.app/
