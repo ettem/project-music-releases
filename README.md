@@ -2,7 +2,7 @@ This is a pair-programming project made during our ninth week at the Technigo bo
 ​
 # Music Releases
 ​
-The assignemnt was to build a music release site, similar to Spotify, with pre-fetched data from an API from Spotify. By using React components we should show new albums and single releases on our site, according to a predefined design-layout.
+The assignment was to build a music release site, similar to Spotify, with pre-fetched data from an API from Spotify. By using React components we should show new albums and single releases on our site, according to a predefined design-layout.
 ​
 ## The problem
 ​
